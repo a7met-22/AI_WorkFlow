@@ -446,12 +446,3 @@ need explicit application-level controls around every action the model
 proposes.**
 
 ------------------------------------------------------------------------
-
-## Author
-
-Add your name, GitHub profile, and portfolio link here.
-
-## License
-
-No license has been specified. Add a `LICENSE` file before presenting
-the repository as an open-source project.
